@@ -1,0 +1,1161 @@
+WARNING:torch.distributed.run:
+*****************************************
+Setting OMP_NUM_THREADS environment variable for each process to be 1 in default, to avoid your system being overloaded, please further tune the variable for optimal performance in your application as needed. 
+*****************************************
+------------ Options -------------
+PBAFN_gen_checkpoint: None
+PBAFN_warp_checkpoint: None
+PFAFN_gen_checkpoint: None
+PFAFN_warp_checkpoint: None
+batchSize: 32
+beta1: 0.5
+checkpoints_dir: ./checkpoints
+continue_train: False
+data_type: 32
+dataroot: /mnt/aix23904/아르포아/virtual_tryon/Fit_data
+debug: False
+display_freq: 100
+display_winsize: 512
+fineSize: 512
+gpu_ids: [0]
+input_nc: 3
+isTrain: True
+label_nc: 13
+lambda_feat: 10.0
+launcher: none
+loadSize: 512
+load_pretrain: 
+local_rank: 0
+lr: 5e-05
+max_dataset_size: inf
+nThreads: 1
+n_blocks_global: 4
+n_blocks_local: 3
+n_downsample_global: 4
+n_layers_D: 3
+n_local_enhancers: 1
+name: train_viton_2gpu
+ndf: 64
+netG: global
+ngf: 64
+niter: 50
+niter_decay: 50
+niter_fix_global: 0
+no_flip: False
+no_ganFeat_loss: False
+no_html: False
+no_lsgan: False
+no_vgg_loss: False
+norm: instance
+num_D: 2
+num_gpus: 2
+output_nc: 3
+phase: train
+pool_size: 0
+print_freq: 100
+resize_or_crop: none
+save_epoch_freq: 20
+save_latest_freq: 1000
+serial_batches: False
+tf_log: True
+tv_weight: 0.1
+use_dropout: False
+verbose: True
+which_epoch: latest
+-------------- End ----------------
+------------ Options -------------
+PBAFN_gen_checkpoint: None
+PBAFN_warp_checkpoint: None
+PFAFN_gen_checkpoint: None
+PFAFN_warp_checkpoint: None
+batchSize: 32
+beta1: 0.5
+checkpoints_dir: ./checkpoints
+continue_train: False
+data_type: 32
+dataroot: /mnt/aix23904/아르포아/virtual_tryon/Fit_data
+debug: False
+display_freq: 100
+display_winsize: 512
+fineSize: 512
+gpu_ids: [0]
+input_nc: 3
+isTrain: True
+label_nc: 13
+lambda_feat: 10.0
+launcher: none
+loadSize: 512
+load_pretrain: 
+local_rank: 0
+lr: 5e-05
+max_dataset_size: inf
+nThreads: 1
+n_blocks_global: 4
+n_blocks_local: 3
+n_downsample_global: 4
+n_layers_D: 3
+n_local_enhancers: 1
+name: train_viton_2gpu
+ndf: 64
+netG: global
+ngf: 64
+niter: 50
+niter_decay: 50
+niter_fix_global: 0
+no_flip: False
+no_ganFeat_loss: False
+no_html: False
+no_lsgan: False
+no_vgg_loss: False
+norm: instance
+num_D: 2
+num_gpus: 2
+output_nc: 3
+phase: train
+pool_size: 0
+print_freq: 100
+resize_or_crop: none
+save_epoch_freq: 20
+save_latest_freq: 1000
+serial_batches: False
+tf_log: True
+tv_weight: 0.1
+use_dropout: False
+verbose: True
+which_epoch: latest
+-------------- End ----------------
+------------ Options -------------
+PBAFN_gen_checkpoint: None
+PBAFN_warp_checkpoint: None
+PFAFN_gen_checkpoint: None
+PFAFN_warp_checkpoint: None
+batchSize: 32
+beta1: 0.5
+checkpoints_dir: ./checkpoints
+continue_train: False
+data_type: 32
+dataroot: /mnt/aix23904/아르포아/virtual_tryon/Fit_data
+debug: False
+display_freq: 100
+display_winsize: 512
+fineSize: 512
+gpu_ids: [0]
+input_nc: 3
+isTrain: True
+label_nc: 13
+lambda_feat: 10.0
+launcher: none
+loadSize: 512
+load_pretrain: 
+local_rank: 0
+lr: 5e-05
+max_dataset_size: inf
+nThreads: 1
+n_blocks_global: 4
+n_blocks_local: 3
+n_downsample_global: 4
+n_layers_D: 3
+n_local_enhancers: 1
+name: train_viton_2gpu
+ndf: 64
+netG: global
+ngf: 64
+niter: 50
+niter_decay: 50
+niter_fix_global: 0
+no_flip: False
+no_ganFeat_loss: False
+no_html: False
+no_lsgan: False
+no_vgg_loss: False
+norm: instance
+num_D: 2
+num_gpus: 2
+output_nc: 3
+phase: train
+pool_size: 0
+print_freq: 100
+resize_or_crop: none
+save_epoch_freq: 20
+save_latest_freq: 1000
+serial_batches: False
+tf_log: True
+tv_weight: 0.1
+use_dropout: False
+verbose: True
+which_epoch: latest
+-------------- End ----------------
+------------ Options -------------
+PBAFN_gen_checkpoint: None
+PBAFN_warp_checkpoint: None
+PFAFN_gen_checkpoint: None
+PFAFN_warp_checkpoint: None
+batchSize: 32
+beta1: 0.5
+checkpoints_dir: ./checkpoints
+continue_train: False
+data_type: 32
+dataroot: /mnt/aix23904/아르포아/virtual_tryon/Fit_data
+debug: False
+display_freq: 100
+display_winsize: 512
+fineSize: 512
+gpu_ids: [0]
+input_nc: 3
+isTrain: True
+label_nc: 13
+lambda_feat: 10.0
+launcher: none
+loadSize: 512
+load_pretrain: 
+local_rank: 0
+lr: 5e-05
+max_dataset_size: inf
+nThreads: 1
+n_blocks_global: 4
+n_blocks_local: 3
+n_downsample_global: 4
+n_layers_D: 3
+n_local_enhancers: 1
+name: train_viton_2gpu
+ndf: 64
+netG: global
+ngf: 64
+niter: 50
+niter_decay: 50
+niter_fix_global: 0
+no_flip: False
+no_ganFeat_loss: False
+no_html: False
+no_lsgan: False
+no_vgg_loss: False
+norm: instance
+num_D: 2
+num_gpus: 2
+output_nc: 3
+phase: train
+pool_size: 0
+print_freq: 100
+resize_or_crop: none
+save_epoch_freq: 20
+save_latest_freq: 1000
+serial_batches: False
+tf_log: True
+tv_weight: 0.1
+use_dropout: False
+verbose: True
+which_epoch: latest
+-------------- End ----------------
+------------ Options -------------
+PBAFN_gen_checkpoint: None
+PBAFN_warp_checkpoint: None
+PFAFN_gen_checkpoint: None
+PFAFN_warp_checkpoint: None
+batchSize: 32
+beta1: 0.5
+checkpoints_dir: ./checkpoints
+continue_train: False
+data_type: 32
+dataroot: /mnt/aix23904/아르포아/virtual_tryon/Fit_data
+debug: False
+display_freq: 100
+display_winsize: 512
+fineSize: 512
+gpu_ids: [0]
+input_nc: 3
+isTrain: True
+label_nc: 13
+lambda_feat: 10.0
+launcher: none
+loadSize: 512
+load_pretrain: 
+local_rank: 0
+lr: 5e-05
+max_dataset_size: inf
+nThreads: 1
+n_blocks_global: 4
+n_blocks_local: 3
+n_downsample_global: 4
+n_layers_D: 3
+n_local_enhancers: 1
+name: train_viton_2gpu
+ndf: 64
+netG: global
+ngf: 64
+niter: 50
+niter_decay: 50
+niter_fix_global: 0
+no_flip: False
+no_ganFeat_loss: False
+no_html: False
+no_lsgan: False
+no_vgg_loss: False
+norm: instance
+num_D: 2
+num_gpus: 2
+output_nc: 3
+phase: train
+pool_size: 0
+print_freq: 100
+resize_or_crop: none
+save_epoch_freq: 20
+save_latest_freq: 1000
+serial_batches: False
+tf_log: True
+tv_weight: 0.1
+use_dropout: False
+verbose: True
+which_epoch: latest
+-------------- End ----------------
+------------ Options -------------
+PBAFN_gen_checkpoint: None
+PBAFN_warp_checkpoint: None
+PFAFN_gen_checkpoint: None
+PFAFN_warp_checkpoint: None
+batchSize: 32
+beta1: 0.5
+checkpoints_dir: ./checkpoints
+continue_train: False
+data_type: 32
+dataroot: /mnt/aix23904/아르포아/virtual_tryon/Fit_data
+debug: False
+display_freq: 100
+display_winsize: 512
+fineSize: 512
+gpu_ids: [0]
+input_nc: 3
+isTrain: True
+label_nc: 13
+lambda_feat: 10.0
+launcher: none
+loadSize: 512
+load_pretrain: 
+local_rank: 0
+lr: 5e-05
+max_dataset_size: inf
+nThreads: 1
+n_blocks_global: 4
+n_blocks_local: 3
+n_downsample_global: 4
+n_layers_D: 3
+n_local_enhancers: 1
+name: train_viton_2gpu
+ndf: 64
+netG: global
+ngf: 64
+niter: 50
+niter_decay: 50
+niter_fix_global: 0
+no_flip: False
+no_ganFeat_loss: False
+no_html: False
+no_lsgan: False
+no_vgg_loss: False
+norm: instance
+num_D: 2
+num_gpus: 2
+output_nc: 3
+phase: train
+pool_size: 0
+print_freq: 100
+resize_or_crop: none
+save_epoch_freq: 20
+save_latest_freq: 1000
+serial_batches: False
+tf_log: True
+tv_weight: 0.1
+use_dropout: False
+verbose: True
+which_epoch: latest
+-------------- End ----------------
+#training images = 467
+#training images = 467
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/torchvision/transforms/transforms.py:332: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/torchvision/transforms/transforms.py:332: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/torchvision/transforms/transforms.py:332: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/torchvision/transforms/transforms.py:332: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/torchvision/transforms/transforms.py:332: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/torchvision/transforms/transforms.py:332: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/torchvision/transforms/transforms.py:332: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/torchvision/transforms/transforms.py:332: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/cupy/cuda/compiler.py:464: UserWarning: cupy.cuda.compile_with_cache has been deprecated in CuPy v10, and will be removed in the future. Use cupy.RawModule or cupy.RawKernel instead.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/cupy/cuda/compiler.py:464: UserWarning: cupy.cuda.compile_with_cache has been deprecated in CuPy v10, and will be removed in the future. Use cupy.RawModule or cupy.RawKernel instead.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/torch/functional.py:568: UserWarning: torch.meshgrid: in an upcoming release, it will be required to pass the indexing argument. (Triggered internally at  /opt/conda/conda-bld/pytorch_1646755903507/work/aten/src/ATen/native/TensorShape.cpp:2228.)
+  return _VF.meshgrid(tensors, **kwargs)  # type: ignore[attr-defined]
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/torch/nn/functional.py:4193: UserWarning: Default grid_sample and affine_grid behavior has changed to align_corners=False since 1.3.0. Please specify align_corners=True if the old behavior is desired. See the documentation of grid_sample for details.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/torch/functional.py:568: UserWarning: torch.meshgrid: in an upcoming release, it will be required to pass the indexing argument. (Triggered internally at  /opt/conda/conda-bld/pytorch_1646755903507/work/aten/src/ATen/native/TensorShape.cpp:2228.)
+  return _VF.meshgrid(tensors, **kwargs)  # type: ignore[attr-defined]
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/torch/nn/functional.py:4193: UserWarning: Default grid_sample and affine_grid behavior has changed to align_corners=False since 1.3.0. Please specify align_corners=True if the old behavior is desired. See the documentation of grid_sample for details.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/PIL/Image.py:3368: DecompressionBombWarning: Image size (108000000 pixels) exceeds limit of 89478485 pixels, could be decompression bomb DOS attack.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/PIL/Image.py:3368: DecompressionBombWarning: Image size (142050000 pixels) exceeds limit of 89478485 pixels, could be decompression bomb DOS attack.
+  warnings.warn(
+2025.06.20-00:03:10:100:[step-100]--[loss-4.053148]--[ETA-9:57:07]
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/PIL/Image.py:3368: DecompressionBombWarning: Image size (108000000 pixels) exceeds limit of 89478485 pixels, could be decompression bomb DOS attack.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/PIL/Image.py:3368: DecompressionBombWarning: Image size (108000000 pixels) exceeds limit of 89478485 pixels, could be decompression bomb DOS attack.
+  warnings.warn(
+2025.06.20-00:12:53:200:[step-200]--[loss-4.079610]--[ETA-9:53:24]
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/PIL/Image.py:3368: DecompressionBombWarning: Image size (108000000 pixels) exceeds limit of 89478485 pixels, could be decompression bomb DOS attack.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/PIL/Image.py:3368: DecompressionBombWarning: Image size (108000000 pixels) exceeds limit of 89478485 pixels, could be decompression bomb DOS attack.
+  warnings.warn(
+2025.06.20-00:22:51:300:[step-300]--[loss-3.816370]--[ETA-9:52:17]
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/PIL/Image.py:3368: DecompressionBombWarning: Image size (108000000 pixels) exceeds limit of 89478485 pixels, could be decompression bomb DOS attack.
+  warnings.warn(
+2025.06.20-00:32:31:400:[step-400]--[loss-3.413208]--[ETA-9:53:11]
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/PIL/Image.py:3368: DecompressionBombWarning: Image size (108000000 pixels) exceeds limit of 89478485 pixels, could be decompression bomb DOS attack.
+  warnings.warn(
+End of epoch 1 / 100 	 Time Taken: 2688 sec
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/torchvision/transforms/transforms.py:332: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/torchvision/transforms/transforms.py:332: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/torchvision/transforms/transforms.py:332: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/torchvision/transforms/transforms.py:332: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/torchvision/transforms/transforms.py:332: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/torchvision/transforms/transforms.py:332: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/torchvision/transforms/transforms.py:332: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/torchvision/transforms/transforms.py:332: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/PIL/Image.py:3368: DecompressionBombWarning: Image size (108000000 pixels) exceeds limit of 89478485 pixels, could be decompression bomb DOS attack.
+  warnings.warn(
+2025.06.20-00:43:17:33:[step-500]--[loss-3.394535]--[ETA-12 days, 6:39:29]
+2025.06.20-00:52:11:133:[step-600]--[loss-3.345869]--[ETA-9:44:07]
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/PIL/Image.py:3368: DecompressionBombWarning: Image size (142050000 pixels) exceeds limit of 89478485 pixels, could be decompression bomb DOS attack.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/PIL/Image.py:3368: DecompressionBombWarning: Image size (108000000 pixels) exceeds limit of 89478485 pixels, could be decompression bomb DOS attack.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/PIL/Image.py:3368: DecompressionBombWarning: Image size (108000000 pixels) exceeds limit of 89478485 pixels, could be decompression bomb DOS attack.
+  warnings.warn(
+2025.06.20-01:01:25:233:[step-700]--[loss-3.202169]--[ETA-9:45:43]
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/PIL/Image.py:3368: DecompressionBombWarning: Image size (108000000 pixels) exceeds limit of 89478485 pixels, could be decompression bomb DOS attack.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/PIL/Image.py:3368: DecompressionBombWarning: Image size (108000000 pixels) exceeds limit of 89478485 pixels, could be decompression bomb DOS attack.
+  warnings.warn(
+2025.06.20-01:08:56:333:[step-800]--[loss-3.220508]--[ETA-9:47:02]
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/PIL/Image.py:3368: DecompressionBombWarning: Image size (108000000 pixels) exceeds limit of 89478485 pixels, could be decompression bomb DOS attack.
+  warnings.warn(
+2025.06.20-01:15:49:433:[step-900]--[loss-3.268560]--[ETA-9:42:21]
+End of epoch 2 / 100 	 Time Taken: 2327 sec
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/torchvision/transforms/transforms.py:332: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/torchvision/transforms/transforms.py:332: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/torchvision/transforms/transforms.py:332: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/torchvision/transforms/transforms.py:332: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/torchvision/transforms/transforms.py:332: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/torchvision/transforms/transforms.py:332: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/torchvision/transforms/transforms.py:332: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/torchvision/transforms/transforms.py:332: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/PIL/Image.py:3368: DecompressionBombWarning: Image size (108000000 pixels) exceeds limit of 89478485 pixels, could be decompression bomb DOS attack.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/PIL/Image.py:3368: DecompressionBombWarning: Image size (108000000 pixels) exceeds limit of 89478485 pixels, could be decompression bomb DOS attack.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/PIL/Image.py:3368: DecompressionBombWarning: Image size (108000000 pixels) exceeds limit of 89478485 pixels, could be decompression bomb DOS attack.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/PIL/Image.py:3368: DecompressionBombWarning: Image size (142050000 pixels) exceeds limit of 89478485 pixels, could be decompression bomb DOS attack.
+  warnings.warn(
+2025.06.20-01:22:45:66:[step-1000]--[loss-3.127595]--[ETA-9:39:56]
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/PIL/Image.py:3368: DecompressionBombWarning: Image size (108000000 pixels) exceeds limit of 89478485 pixels, could be decompression bomb DOS attack.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/PIL/Image.py:3368: DecompressionBombWarning: Image size (108000000 pixels) exceeds limit of 89478485 pixels, could be decompression bomb DOS attack.
+  warnings.warn(
+2025.06.20-01:29:30:166:[step-1100]--[loss-3.056351]--[ETA-9:40:10]
+2025.06.20-01:36:51:266:[step-1200]--[loss-3.070431]--[ETA-9:48:57]
+2025.06.20-01:43:36:366:[step-1300]--[loss-3.096075]--[ETA-9:35:01]
+2025.06.20-01:51:14:466:[step-1400]--[loss-3.433551]--[ETA-9:34:30]
+End of epoch 3 / 100 	 Time Taken: 1986 sec
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/torchvision/transforms/transforms.py:332: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/torchvision/transforms/transforms.py:332: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/torchvision/transforms/transforms.py:332: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/torchvision/transforms/transforms.py:332: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/torchvision/transforms/transforms.py:332: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/torchvision/transforms/transforms.py:332: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/torchvision/transforms/transforms.py:332: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/torchvision/transforms/transforms.py:332: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/PIL/Image.py:3368: DecompressionBombWarning: Image size (108000000 pixels) exceeds limit of 89478485 pixels, could be decompression bomb DOS attack.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/PIL/Image.py:3368: DecompressionBombWarning: Image size (108000000 pixels) exceeds limit of 89478485 pixels, could be decompression bomb DOS attack.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/PIL/Image.py:3368: DecompressionBombWarning: Image size (108000000 pixels) exceeds limit of 89478485 pixels, could be decompression bomb DOS attack.
+  warnings.warn(
+2025.06.20-01:57:55:99:[step-1500]--[loss-3.090346]--[ETA-9:27:42]
+2025.06.20-02:05:00:199:[step-1600]--[loss-3.159646]--[ETA-9:41:06]
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/PIL/Image.py:3368: DecompressionBombWarning: Image size (142050000 pixels) exceeds limit of 89478485 pixels, could be decompression bomb DOS attack.
+  warnings.warn(
+2025.06.20-02:12:35:299:[step-1700]--[loss-2.865187]--[ETA-9:32:13]
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/PIL/Image.py:3368: DecompressionBombWarning: Image size (108000000 pixels) exceeds limit of 89478485 pixels, could be decompression bomb DOS attack.
+  warnings.warn(
+2025.06.20-02:20:17:399:[step-1800]--[loss-2.975280]--[ETA-9:35:23]
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/PIL/Image.py:3368: DecompressionBombWarning: Image size (108000000 pixels) exceeds limit of 89478485 pixels, could be decompression bomb DOS attack.
+  warnings.warn(
+End of epoch 4 / 100 	 Time Taken: 2024 sec
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/torchvision/transforms/transforms.py:332: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/torchvision/transforms/transforms.py:332: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/torchvision/transforms/transforms.py:332: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/torchvision/transforms/transforms.py:332: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/torchvision/transforms/transforms.py:332: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/torchvision/transforms/transforms.py:332: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/torchvision/transforms/transforms.py:332: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/torchvision/transforms/transforms.py:332: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/PIL/Image.py:3368: DecompressionBombWarning: Image size (108000000 pixels) exceeds limit of 89478485 pixels, could be decompression bomb DOS attack.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/PIL/Image.py:3368: DecompressionBombWarning: Image size (108000000 pixels) exceeds limit of 89478485 pixels, could be decompression bomb DOS attack.
+  warnings.warn(
+2025.06.20-02:27:16:32:[step-1900]--[loss-3.174147]--[ETA-9:31:55]
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/PIL/Image.py:3368: DecompressionBombWarning: Image size (108000000 pixels) exceeds limit of 89478485 pixels, could be decompression bomb DOS attack.
+  warnings.warn(
+2025.06.20-02:34:09:132:[step-2000]--[loss-3.144263]--[ETA-9:29:05]
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/PIL/Image.py:3368: DecompressionBombWarning: Image size (108000000 pixels) exceeds limit of 89478485 pixels, could be decompression bomb DOS attack.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/PIL/Image.py:3368: DecompressionBombWarning: Image size (142050000 pixels) exceeds limit of 89478485 pixels, could be decompression bomb DOS attack.
+  warnings.warn(
+2025.06.20-02:41:25:232:[step-2100]--[loss-2.845446]--[ETA-9:23:21]
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/PIL/Image.py:3368: DecompressionBombWarning: Image size (108000000 pixels) exceeds limit of 89478485 pixels, could be decompression bomb DOS attack.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/PIL/Image.py:3368: DecompressionBombWarning: Image size (108000000 pixels) exceeds limit of 89478485 pixels, could be decompression bomb DOS attack.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/PIL/Image.py:3368: DecompressionBombWarning: Image size (108000000 pixels) exceeds limit of 89478485 pixels, could be decompression bomb DOS attack.
+  warnings.warn(
+2025.06.20-02:49:40:332:[step-2200]--[loss-2.741995]--[ETA-9:27:06]
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/PIL/Image.py:3368: DecompressionBombWarning: Image size (108000000 pixels) exceeds limit of 89478485 pixels, could be decompression bomb DOS attack.
+  warnings.warn(
+2025.06.20-02:56:35:432:[step-2300]--[loss-2.897192]--[ETA-9:27:27]
+End of epoch 5 / 100 	 Time Taken: 2030 sec
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/torchvision/transforms/transforms.py:332: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/torchvision/transforms/transforms.py:332: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/torchvision/transforms/transforms.py:332: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/torchvision/transforms/transforms.py:332: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/torchvision/transforms/transforms.py:332: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/torchvision/transforms/transforms.py:332: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/torchvision/transforms/transforms.py:332: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/torchvision/transforms/transforms.py:332: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/PIL/Image.py:3368: DecompressionBombWarning: Image size (108000000 pixels) exceeds limit of 89478485 pixels, could be decompression bomb DOS attack.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/PIL/Image.py:3368: DecompressionBombWarning: Image size (142050000 pixels) exceeds limit of 89478485 pixels, could be decompression bomb DOS attack.
+  warnings.warn(
+2025.06.20-03:03:03:65:[step-2400]--[loss-2.812921]--[ETA-1 day, 2:49:30]
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/PIL/Image.py:3368: DecompressionBombWarning: Image size (108000000 pixels) exceeds limit of 89478485 pixels, could be decompression bomb DOS attack.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/PIL/Image.py:3368: DecompressionBombWarning: Image size (108000000 pixels) exceeds limit of 89478485 pixels, could be decompression bomb DOS attack.
+  warnings.warn(
+2025.06.20-03:10:04:165:[step-2500]--[loss-2.859298]--[ETA-9:45:07]
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/PIL/Image.py:3368: DecompressionBombWarning: Image size (108000000 pixels) exceeds limit of 89478485 pixels, could be decompression bomb DOS attack.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/PIL/Image.py:3368: DecompressionBombWarning: Image size (108000000 pixels) exceeds limit of 89478485 pixels, could be decompression bomb DOS attack.
+  warnings.warn(
+2025.06.20-03:17:43:265:[step-2600]--[loss-2.958100]--[ETA-9:21:58]
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/PIL/Image.py:3368: DecompressionBombWarning: Image size (108000000 pixels) exceeds limit of 89478485 pixels, could be decompression bomb DOS attack.
+  warnings.warn(
+2025.06.20-03:25:54:365:[step-2700]--[loss-3.031940]--[ETA-9:52:53]
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/PIL/Image.py:3368: DecompressionBombWarning: Image size (108000000 pixels) exceeds limit of 89478485 pixels, could be decompression bomb DOS attack.
+  warnings.warn(
+2025.06.20-03:32:36:465:[step-2800]--[loss-2.564237]--[ETA-6 days, 5:37:08]
+End of epoch 6 / 100 	 Time Taken: 2028 sec
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/torchvision/transforms/transforms.py:332: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/torchvision/transforms/transforms.py:332: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/torchvision/transforms/transforms.py:332: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/torchvision/transforms/transforms.py:332: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/torchvision/transforms/transforms.py:332: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/torchvision/transforms/transforms.py:332: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/torchvision/transforms/transforms.py:332: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/torchvision/transforms/transforms.py:332: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/PIL/Image.py:3368: DecompressionBombWarning: Image size (108000000 pixels) exceeds limit of 89478485 pixels, could be decompression bomb DOS attack.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/PIL/Image.py:3368: DecompressionBombWarning: Image size (108000000 pixels) exceeds limit of 89478485 pixels, could be decompression bomb DOS attack.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/PIL/Image.py:3368: DecompressionBombWarning: Image size (108000000 pixels) exceeds limit of 89478485 pixels, could be decompression bomb DOS attack.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/PIL/Image.py:3368: DecompressionBombWarning: Image size (108000000 pixels) exceeds limit of 89478485 pixels, could be decompression bomb DOS attack.
+  warnings.warn(
+2025.06.20-03:39:16:98:[step-2900]--[loss-2.794216]--[ETA-9:13:18]
+2025.06.20-03:46:10:198:[step-3000]--[loss-2.816779]--[ETA-9:19:18]
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/PIL/Image.py:3368: DecompressionBombWarning: Image size (108000000 pixels) exceeds limit of 89478485 pixels, could be decompression bomb DOS attack.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/PIL/Image.py:3368: DecompressionBombWarning: Image size (108000000 pixels) exceeds limit of 89478485 pixels, could be decompression bomb DOS attack.
+  warnings.warn(
+2025.06.20-03:54:45:298:[step-3100]--[loss-3.065872]--[ETA-7 days, 15:14:02]
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/PIL/Image.py:3368: DecompressionBombWarning: Image size (142050000 pixels) exceeds limit of 89478485 pixels, could be decompression bomb DOS attack.
+  warnings.warn(
+2025.06.20-04:01:26:398:[step-3200]--[loss-2.690502]--[ETA-3 days, 2:23:50]
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/PIL/Image.py:3368: DecompressionBombWarning: Image size (108000000 pixels) exceeds limit of 89478485 pixels, could be decompression bomb DOS attack.
+  warnings.warn(
+End of epoch 7 / 100 	 Time Taken: 1982 sec
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/torchvision/transforms/transforms.py:332: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/torchvision/transforms/transforms.py:332: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/torchvision/transforms/transforms.py:332: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/torchvision/transforms/transforms.py:332: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/torchvision/transforms/transforms.py:332: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/torchvision/transforms/transforms.py:332: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/torchvision/transforms/transforms.py:332: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/torchvision/transforms/transforms.py:332: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+2025.06.20-04:07:52:31:[step-3300]--[loss-2.926194]--[ETA-9:10:48]
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/PIL/Image.py:3368: DecompressionBombWarning: Image size (108000000 pixels) exceeds limit of 89478485 pixels, could be decompression bomb DOS attack.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/PIL/Image.py:3368: DecompressionBombWarning: Image size (108000000 pixels) exceeds limit of 89478485 pixels, could be decompression bomb DOS attack.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/PIL/Image.py:3368: DecompressionBombWarning: Image size (108000000 pixels) exceeds limit of 89478485 pixels, could be decompression bomb DOS attack.
+  warnings.warn(
+2025.06.20-04:14:21:131:[step-3400]--[loss-3.091967]--[ETA-9:10:28]
+2025.06.20-04:21:59:231:[step-3500]--[loss-2.655966]--[ETA-9:10:15]
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/PIL/Image.py:3368: DecompressionBombWarning: Image size (142050000 pixels) exceeds limit of 89478485 pixels, could be decompression bomb DOS attack.
+  warnings.warn(
+2025.06.20-04:30:03:331:[step-3600]--[loss-2.615030]--[ETA-9:02:25]
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/PIL/Image.py:3368: DecompressionBombWarning: Image size (108000000 pixels) exceeds limit of 89478485 pixels, could be decompression bomb DOS attack.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/PIL/Image.py:3368: DecompressionBombWarning: Image size (108000000 pixels) exceeds limit of 89478485 pixels, could be decompression bomb DOS attack.
+  warnings.warn(
+2025.06.20-04:36:29:431:[step-3700]--[loss-2.693556]--[ETA-9:04:04]
+End of epoch 8 / 100 	 Time Taken: 1988 sec
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/torchvision/transforms/transforms.py:332: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/torchvision/transforms/transforms.py:332: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/torchvision/transforms/transforms.py:332: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/torchvision/transforms/transforms.py:332: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/torchvision/transforms/transforms.py:332: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/torchvision/transforms/transforms.py:332: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/torchvision/transforms/transforms.py:332: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/torchvision/transforms/transforms.py:332: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/PIL/Image.py:3368: DecompressionBombWarning: Image size (108000000 pixels) exceeds limit of 89478485 pixels, could be decompression bomb DOS attack.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/PIL/Image.py:3368: DecompressionBombWarning: Image size (108000000 pixels) exceeds limit of 89478485 pixels, could be decompression bomb DOS attack.
+  warnings.warn(
+2025.06.20-04:43:17:64:[step-3800]--[loss-2.858169]--[ETA-9:04:55]
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/PIL/Image.py:3368: DecompressionBombWarning: Image size (142050000 pixels) exceeds limit of 89478485 pixels, could be decompression bomb DOS attack.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/PIL/Image.py:3368: DecompressionBombWarning: Image size (108000000 pixels) exceeds limit of 89478485 pixels, could be decompression bomb DOS attack.
+  warnings.warn(
+2025.06.20-04:50:29:164:[step-3900]--[loss-2.900054]--[ETA-9:08:31]
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/PIL/Image.py:3368: DecompressionBombWarning: Image size (108000000 pixels) exceeds limit of 89478485 pixels, could be decompression bomb DOS attack.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/PIL/Image.py:3368: DecompressionBombWarning: Image size (108000000 pixels) exceeds limit of 89478485 pixels, could be decompression bomb DOS attack.
+  warnings.warn(
+2025.06.20-04:58:44:264:[step-4000]--[loss-2.771292]--[ETA-9:01:18]
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/PIL/Image.py:3368: DecompressionBombWarning: Image size (108000000 pixels) exceeds limit of 89478485 pixels, could be decompression bomb DOS attack.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/PIL/Image.py:3368: DecompressionBombWarning: Image size (108000000 pixels) exceeds limit of 89478485 pixels, could be decompression bomb DOS attack.
+  warnings.warn(
+2025.06.20-05:05:57:364:[step-4100]--[loss-2.742934]--[ETA-8:59:34]
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/PIL/Image.py:3368: DecompressionBombWarning: Image size (108000000 pixels) exceeds limit of 89478485 pixels, could be decompression bomb DOS attack.
+  warnings.warn(
+2025.06.20-05:12:55:464:[step-4200]--[loss-2.950313]--[ETA-8:57:47]
+End of epoch 9 / 100 	 Time Taken: 2049 sec
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/torchvision/transforms/transforms.py:332: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/torchvision/transforms/transforms.py:332: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/torchvision/transforms/transforms.py:332: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/torchvision/transforms/transforms.py:332: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/torchvision/transforms/transforms.py:332: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/torchvision/transforms/transforms.py:332: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/torchvision/transforms/transforms.py:332: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/torchvision/transforms/transforms.py:332: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/PIL/Image.py:3368: DecompressionBombWarning: Image size (108000000 pixels) exceeds limit of 89478485 pixels, could be decompression bomb DOS attack.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/PIL/Image.py:3368: DecompressionBombWarning: Image size (108000000 pixels) exceeds limit of 89478485 pixels, could be decompression bomb DOS attack.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/PIL/Image.py:3368: DecompressionBombWarning: Image size (108000000 pixels) exceeds limit of 89478485 pixels, could be decompression bomb DOS attack.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/PIL/Image.py:3368: DecompressionBombWarning: Image size (108000000 pixels) exceeds limit of 89478485 pixels, could be decompression bomb DOS attack.
+  warnings.warn(
+2025.06.20-05:20:16:97:[step-4300]--[loss-2.616093]--[ETA-8:57:34]
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/PIL/Image.py:3368: DecompressionBombWarning: Image size (108000000 pixels) exceeds limit of 89478485 pixels, could be decompression bomb DOS attack.
+  warnings.warn(
+2025.06.20-05:27:55:197:[step-4400]--[loss-2.888374]--[ETA-8:53:27]
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/PIL/Image.py:3368: DecompressionBombWarning: Image size (142050000 pixels) exceeds limit of 89478485 pixels, could be decompression bomb DOS attack.
+  warnings.warn(
+2025.06.20-05:36:22:297:[step-4500]--[loss-2.670426]--[ETA-9:02:03]
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/PIL/Image.py:3368: DecompressionBombWarning: Image size (108000000 pixels) exceeds limit of 89478485 pixels, could be decompression bomb DOS attack.
+  warnings.warn(
+2025.06.20-05:43:35:397:[step-4600]--[loss-2.750453]--[ETA-8:53:56]
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/PIL/Image.py:3368: DecompressionBombWarning: Image size (108000000 pixels) exceeds limit of 89478485 pixels, could be decompression bomb DOS attack.
+  warnings.warn(
+End of epoch 10 / 100 	 Time Taken: 2118 sec
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/torchvision/transforms/transforms.py:332: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/torchvision/transforms/transforms.py:332: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/torchvision/transforms/transforms.py:332: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/torchvision/transforms/transforms.py:332: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/torchvision/transforms/transforms.py:332: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/torchvision/transforms/transforms.py:332: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/torchvision/transforms/transforms.py:332: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/torchvision/transforms/transforms.py:332: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+2025.06.20-05:50:30:30:[step-4700]--[loss-2.940471]--[ETA-8:52:53]
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/PIL/Image.py:3368: DecompressionBombWarning: Image size (108000000 pixels) exceeds limit of 89478485 pixels, could be decompression bomb DOS attack.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/PIL/Image.py:3368: DecompressionBombWarning: Image size (108000000 pixels) exceeds limit of 89478485 pixels, could be decompression bomb DOS attack.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/PIL/Image.py:3368: DecompressionBombWarning: Image size (108000000 pixels) exceeds limit of 89478485 pixels, could be decompression bomb DOS attack.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/PIL/Image.py:3368: DecompressionBombWarning: Image size (142050000 pixels) exceeds limit of 89478485 pixels, could be decompression bomb DOS attack.
+  warnings.warn(
+2025.06.20-05:58:30:130:[step-4800]--[loss-2.928283]--[ETA-8 days, 12:24:58]
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/PIL/Image.py:3368: DecompressionBombWarning: Image size (108000000 pixels) exceeds limit of 89478485 pixels, could be decompression bomb DOS attack.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/PIL/Image.py:3368: DecompressionBombWarning: Image size (108000000 pixels) exceeds limit of 89478485 pixels, could be decompression bomb DOS attack.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/PIL/Image.py:3368: DecompressionBombWarning: Image size (108000000 pixels) exceeds limit of 89478485 pixels, could be decompression bomb DOS attack.
+  warnings.warn(
+2025.06.20-06:05:55:230:[step-4900]--[loss-2.717090]--[ETA-7 days, 10:22:37]
+2025.06.20-06:13:59:330:[step-5000]--[loss-2.659997]--[ETA-8:49:12]
+2025.06.20-06:21:00:430:[step-5100]--[loss-2.583839]--[ETA-9:03:53]
+End of epoch 11 / 100 	 Time Taken: 2130 sec
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/torchvision/transforms/transforms.py:332: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/torchvision/transforms/transforms.py:332: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/torchvision/transforms/transforms.py:332: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/torchvision/transforms/transforms.py:332: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/torchvision/transforms/transforms.py:332: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/torchvision/transforms/transforms.py:332: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/torchvision/transforms/transforms.py:332: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/torchvision/transforms/transforms.py:332: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/PIL/Image.py:3368: DecompressionBombWarning: Image size (108000000 pixels) exceeds limit of 89478485 pixels, could be decompression bomb DOS attack.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/PIL/Image.py:3368: DecompressionBombWarning: Image size (108000000 pixels) exceeds limit of 89478485 pixels, could be decompression bomb DOS attack.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/PIL/Image.py:3368: DecompressionBombWarning: Image size (108000000 pixels) exceeds limit of 89478485 pixels, could be decompression bomb DOS attack.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/PIL/Image.py:3368: DecompressionBombWarning: Image size (108000000 pixels) exceeds limit of 89478485 pixels, could be decompression bomb DOS attack.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/PIL/Image.py:3368: DecompressionBombWarning: Image size (108000000 pixels) exceeds limit of 89478485 pixels, could be decompression bomb DOS attack.
+  warnings.warn(
+2025.06.20-06:29:04:63:[step-5200]--[loss-2.866433]--[ETA-8:46:03]
+2025.06.20-06:36:08:163:[step-5300]--[loss-2.709189]--[ETA-8:46:39]
+2025.06.20-06:44:01:263:[step-5400]--[loss-2.678110]--[ETA-9:08:52]
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/PIL/Image.py:3368: DecompressionBombWarning: Image size (142050000 pixels) exceeds limit of 89478485 pixels, could be decompression bomb DOS attack.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/PIL/Image.py:3368: DecompressionBombWarning: Image size (108000000 pixels) exceeds limit of 89478485 pixels, could be decompression bomb DOS attack.
+  warnings.warn(
+2025.06.20-06:51:47:363:[step-5500]--[loss-2.829314]--[ETA-8:42:20]
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/PIL/Image.py:3368: DecompressionBombWarning: Image size (108000000 pixels) exceeds limit of 89478485 pixels, could be decompression bomb DOS attack.
+  warnings.warn(
+2025.06.20-06:59:42:463:[step-5600]--[loss-2.652201]--[ETA-8:42:39]
+End of epoch 12 / 100 	 Time Taken: 2180 sec
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/torchvision/transforms/transforms.py:332: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/torchvision/transforms/transforms.py:332: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/torchvision/transforms/transforms.py:332: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/torchvision/transforms/transforms.py:332: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/torchvision/transforms/transforms.py:332: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/torchvision/transforms/transforms.py:332: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/torchvision/transforms/transforms.py:332: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/torchvision/transforms/transforms.py:332: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/PIL/Image.py:3368: DecompressionBombWarning: Image size (108000000 pixels) exceeds limit of 89478485 pixels, could be decompression bomb DOS attack.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/PIL/Image.py:3368: DecompressionBombWarning: Image size (108000000 pixels) exceeds limit of 89478485 pixels, could be decompression bomb DOS attack.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/PIL/Image.py:3368: DecompressionBombWarning: Image size (142050000 pixels) exceeds limit of 89478485 pixels, could be decompression bomb DOS attack.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/PIL/Image.py:3368: DecompressionBombWarning: Image size (108000000 pixels) exceeds limit of 89478485 pixels, could be decompression bomb DOS attack.
+  warnings.warn(
+2025.06.20-07:06:59:96:[step-5700]--[loss-2.867562]--[ETA-8:38:12]
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/PIL/Image.py:3368: DecompressionBombWarning: Image size (108000000 pixels) exceeds limit of 89478485 pixels, could be decompression bomb DOS attack.
+  warnings.warn(
+2025.06.20-07:14:09:196:[step-5800]--[loss-2.594533]--[ETA-8:34:08]
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/PIL/Image.py:3368: DecompressionBombWarning: Image size (108000000 pixels) exceeds limit of 89478485 pixels, could be decompression bomb DOS attack.
+  warnings.warn(
+2025.06.20-07:23:17:296:[step-5900]--[loss-2.735775]--[ETA-9:18:42]
+2025.06.20-07:32:40:396:[step-6000]--[loss-2.573735]--[ETA-8:46:07]
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/PIL/Image.py:3368: DecompressionBombWarning: Image size (108000000 pixels) exceeds limit of 89478485 pixels, could be decompression bomb DOS attack.
+  warnings.warn(
+End of epoch 13 / 100 	 Time Taken: 2326 sec
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/torchvision/transforms/transforms.py:332: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/torchvision/transforms/transforms.py:332: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/torchvision/transforms/transforms.py:332: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/torchvision/transforms/transforms.py:332: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/torchvision/transforms/transforms.py:332: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/torchvision/transforms/transforms.py:332: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/torchvision/transforms/transforms.py:332: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/torchvision/transforms/transforms.py:332: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+2025.06.20-07:41:31:29:[step-6100]--[loss-2.486958]--[ETA-8:33:04]
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/PIL/Image.py:3368: DecompressionBombWarning: Image size (108000000 pixels) exceeds limit of 89478485 pixels, could be decompression bomb DOS attack.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/PIL/Image.py:3368: DecompressionBombWarning: Image size (108000000 pixels) exceeds limit of 89478485 pixels, could be decompression bomb DOS attack.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/PIL/Image.py:3368: DecompressionBombWarning: Image size (108000000 pixels) exceeds limit of 89478485 pixels, could be decompression bomb DOS attack.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/PIL/Image.py:3368: DecompressionBombWarning: Image size (108000000 pixels) exceeds limit of 89478485 pixels, could be decompression bomb DOS attack.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/PIL/Image.py:3368: DecompressionBombWarning: Image size (108000000 pixels) exceeds limit of 89478485 pixels, could be decompression bomb DOS attack.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/PIL/Image.py:3368: DecompressionBombWarning: Image size (108000000 pixels) exceeds limit of 89478485 pixels, could be decompression bomb DOS attack.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/PIL/Image.py:3368: DecompressionBombWarning: Image size (142050000 pixels) exceeds limit of 89478485 pixels, could be decompression bomb DOS attack.
+  warnings.warn(
+2025.06.20-07:50:22:129:[step-6200]--[loss-2.739353]--[ETA-8:46:13]
+2025.06.20-07:59:48:229:[step-6300]--[loss-2.603571]--[ETA-8:36:16]
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/PIL/Image.py:3368: DecompressionBombWarning: Image size (108000000 pixels) exceeds limit of 89478485 pixels, could be decompression bomb DOS attack.
+  warnings.warn(
+2025.06.20-08:09:03:329:[step-6400]--[loss-2.758422]--[ETA-8:35:53]
+2025.06.20-08:17:17:429:[step-6500]--[loss-2.749605]--[ETA-8:31:26]
+End of epoch 14 / 100 	 Time Taken: 2503 sec
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/torchvision/transforms/transforms.py:332: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/torchvision/transforms/transforms.py:332: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/torchvision/transforms/transforms.py:332: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/torchvision/transforms/transforms.py:332: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/torchvision/transforms/transforms.py:332: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/torchvision/transforms/transforms.py:332: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/torchvision/transforms/transforms.py:332: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/torchvision/transforms/transforms.py:332: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/PIL/Image.py:3368: DecompressionBombWarning: Image size (108000000 pixels) exceeds limit of 89478485 pixels, could be decompression bomb DOS attack.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/PIL/Image.py:3368: DecompressionBombWarning: Image size (108000000 pixels) exceeds limit of 89478485 pixels, could be decompression bomb DOS attack.
+  warnings.warn(
+2025.06.20-08:26:18:62:[step-6600]--[loss-2.834410]--[ETA-5 days, 6:35:31]
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/PIL/Image.py:3368: DecompressionBombWarning: Image size (142050000 pixels) exceeds limit of 89478485 pixels, could be decompression bomb DOS attack.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/PIL/Image.py:3368: DecompressionBombWarning: Image size (108000000 pixels) exceeds limit of 89478485 pixels, could be decompression bomb DOS attack.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/PIL/Image.py:3368: DecompressionBombWarning: Image size (108000000 pixels) exceeds limit of 89478485 pixels, could be decompression bomb DOS attack.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/PIL/Image.py:3368: DecompressionBombWarning: Image size (108000000 pixels) exceeds limit of 89478485 pixels, could be decompression bomb DOS attack.
+  warnings.warn(
+2025.06.20-08:34:49:162:[step-6700]--[loss-2.709681]--[ETA-8:37:03]
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/PIL/Image.py:3368: DecompressionBombWarning: Image size (108000000 pixels) exceeds limit of 89478485 pixels, could be decompression bomb DOS attack.
+  warnings.warn(
+2025.06.20-08:44:58:262:[step-6800]--[loss-2.549792]--[ETA-8:30:32]
+2025.06.20-08:53:08:362:[step-6900]--[loss-2.596488]--[ETA-8:27:32]
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/PIL/Image.py:3368: DecompressionBombWarning: Image size (108000000 pixels) exceeds limit of 89478485 pixels, could be decompression bomb DOS attack.
+  warnings.warn(
+2025.06.20-09:01:28:462:[step-7000]--[loss-2.609260]--[ETA-8:44:36]
+End of epoch 15 / 100 	 Time Taken: 2472 sec
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/torchvision/transforms/transforms.py:332: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/torchvision/transforms/transforms.py:332: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/torchvision/transforms/transforms.py:332: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/torchvision/transforms/transforms.py:332: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/torchvision/transforms/transforms.py:332: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/torchvision/transforms/transforms.py:332: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/torchvision/transforms/transforms.py:332: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/torchvision/transforms/transforms.py:332: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/PIL/Image.py:3368: DecompressionBombWarning: Image size (108000000 pixels) exceeds limit of 89478485 pixels, could be decompression bomb DOS attack.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/PIL/Image.py:3368: DecompressionBombWarning: Image size (108000000 pixels) exceeds limit of 89478485 pixels, could be decompression bomb DOS attack.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/PIL/Image.py:3368: DecompressionBombWarning: Image size (108000000 pixels) exceeds limit of 89478485 pixels, could be decompression bomb DOS attack.
+  warnings.warn(
+2025.06.20-09:10:12:95:[step-7100]--[loss-2.792180]--[ETA-8:30:01]
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/PIL/Image.py:3368: DecompressionBombWarning: Image size (108000000 pixels) exceeds limit of 89478485 pixels, could be decompression bomb DOS attack.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/PIL/Image.py:3368: DecompressionBombWarning: Image size (108000000 pixels) exceeds limit of 89478485 pixels, could be decompression bomb DOS attack.
+  warnings.warn(
+2025.06.20-09:20:00:195:[step-7200]--[loss-2.540074]--[ETA-9:08:42]
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/PIL/Image.py:3368: DecompressionBombWarning: Image size (108000000 pixels) exceeds limit of 89478485 pixels, could be decompression bomb DOS attack.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/PIL/Image.py:3368: DecompressionBombWarning: Image size (142050000 pixels) exceeds limit of 89478485 pixels, could be decompression bomb DOS attack.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/PIL/Image.py:3368: DecompressionBombWarning: Image size (108000000 pixels) exceeds limit of 89478485 pixels, could be decompression bomb DOS attack.
+  warnings.warn(
+2025.06.20-09:28:40:295:[step-7300]--[loss-2.608894]--[ETA-8:54:51]
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/PIL/Image.py:3368: DecompressionBombWarning: Image size (108000000 pixels) exceeds limit of 89478485 pixels, could be decompression bomb DOS attack.
+  warnings.warn(
+2025.06.20-09:37:08:395:[step-7400]--[loss-2.820459]--[ETA-8:19:57]
+End of epoch 16 / 100 	 Time Taken: 2495 sec
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/torchvision/transforms/transforms.py:332: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/torchvision/transforms/transforms.py:332: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/torchvision/transforms/transforms.py:332: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/torchvision/transforms/transforms.py:332: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/torchvision/transforms/transforms.py:332: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/torchvision/transforms/transforms.py:332: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/torchvision/transforms/transforms.py:332: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/torchvision/transforms/transforms.py:332: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/PIL/Image.py:3368: DecompressionBombWarning: Image size (108000000 pixels) exceeds limit of 89478485 pixels, could be decompression bomb DOS attack.
+  warnings.warn(
+2025.06.20-09:46:16:28:[step-7500]--[loss-2.609150]--[ETA-8:14:33]
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/PIL/Image.py:3368: DecompressionBombWarning: Image size (108000000 pixels) exceeds limit of 89478485 pixels, could be decompression bomb DOS attack.
+  warnings.warn(
+2025.06.20-09:56:16:128:[step-7600]--[loss-2.744685]--[ETA-8:23:07]
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/PIL/Image.py:3368: DecompressionBombWarning: Image size (108000000 pixels) exceeds limit of 89478485 pixels, could be decompression bomb DOS attack.
+  warnings.warn(
+2025.06.20-10:05:38:228:[step-7700]--[loss-2.566919]--[ETA-8:16:06]
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/PIL/Image.py:3368: DecompressionBombWarning: Image size (108000000 pixels) exceeds limit of 89478485 pixels, could be decompression bomb DOS attack.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/PIL/Image.py:3368: DecompressionBombWarning: Image size (108000000 pixels) exceeds limit of 89478485 pixels, could be decompression bomb DOS attack.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/PIL/Image.py:3368: DecompressionBombWarning: Image size (142050000 pixels) exceeds limit of 89478485 pixels, could be decompression bomb DOS attack.
+  warnings.warn(
+2025.06.20-10:14:03:328:[step-7800]--[loss-2.662926]--[ETA-8:11:32]
+2025.06.20-10:23:39:428:[step-7900]--[loss-2.828260]--[ETA-8:23:05]
+End of epoch 17 / 100 	 Time Taken: 2590 sec
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/torchvision/transforms/transforms.py:332: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/torchvision/transforms/transforms.py:332: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/torchvision/transforms/transforms.py:332: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/torchvision/transforms/transforms.py:332: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/torchvision/transforms/transforms.py:332: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/torchvision/transforms/transforms.py:332: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/torchvision/transforms/transforms.py:332: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/torchvision/transforms/transforms.py:332: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/PIL/Image.py:3368: DecompressionBombWarning: Image size (108000000 pixels) exceeds limit of 89478485 pixels, could be decompression bomb DOS attack.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/PIL/Image.py:3368: DecompressionBombWarning: Image size (108000000 pixels) exceeds limit of 89478485 pixels, could be decompression bomb DOS attack.
+  warnings.warn(
+2025.06.20-10:32:15:61:[step-8000]--[loss-2.604060]--[ETA-8:14:48]
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/PIL/Image.py:3368: DecompressionBombWarning: Image size (108000000 pixels) exceeds limit of 89478485 pixels, could be decompression bomb DOS attack.
+  warnings.warn(
+2025.06.20-10:41:21:161:[step-8100]--[loss-2.806269]--[ETA-8:16:55]
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/PIL/Image.py:3368: DecompressionBombWarning: Image size (108000000 pixels) exceeds limit of 89478485 pixels, could be decompression bomb DOS attack.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/PIL/Image.py:3368: DecompressionBombWarning: Image size (108000000 pixels) exceeds limit of 89478485 pixels, could be decompression bomb DOS attack.
+  warnings.warn(
+2025.06.20-10:50:05:261:[step-8200]--[loss-2.648984]--[ETA-8:43:15]
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/PIL/Image.py:3368: DecompressionBombWarning: Image size (108000000 pixels) exceeds limit of 89478485 pixels, could be decompression bomb DOS attack.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/PIL/Image.py:3368: DecompressionBombWarning: Image size (142050000 pixels) exceeds limit of 89478485 pixels, could be decompression bomb DOS attack.
+  warnings.warn(
+2025.06.20-10:59:28:361:[step-8300]--[loss-2.630154]--[ETA-8:08:14]
+2025.06.20-11:07:56:461:[step-8400]--[loss-2.791563]--[ETA-8:08:46]
+End of epoch 18 / 100 	 Time Taken: 2500 sec
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/torchvision/transforms/transforms.py:332: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/torchvision/transforms/transforms.py:332: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/torchvision/transforms/transforms.py:332: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/torchvision/transforms/transforms.py:332: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/torchvision/transforms/transforms.py:332: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/torchvision/transforms/transforms.py:332: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/torchvision/transforms/transforms.py:332: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/torchvision/transforms/transforms.py:332: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/PIL/Image.py:3368: DecompressionBombWarning: Image size (108000000 pixels) exceeds limit of 89478485 pixels, could be decompression bomb DOS attack.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/PIL/Image.py:3368: DecompressionBombWarning: Image size (108000000 pixels) exceeds limit of 89478485 pixels, could be decompression bomb DOS attack.
+  warnings.warn(
+2025.06.20-11:17:15:94:[step-8500]--[loss-2.601912]--[ETA-8:04:01]
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/PIL/Image.py:3368: DecompressionBombWarning: Image size (108000000 pixels) exceeds limit of 89478485 pixels, could be decompression bomb DOS attack.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/PIL/Image.py:3368: DecompressionBombWarning: Image size (108000000 pixels) exceeds limit of 89478485 pixels, could be decompression bomb DOS attack.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/PIL/Image.py:3368: DecompressionBombWarning: Image size (108000000 pixels) exceeds limit of 89478485 pixels, could be decompression bomb DOS attack.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/PIL/Image.py:3368: DecompressionBombWarning: Image size (142050000 pixels) exceeds limit of 89478485 pixels, could be decompression bomb DOS attack.
+  warnings.warn(
+2025.06.20-11:26:03:194:[step-8600]--[loss-2.506195]--[ETA-8:12:17]
+2025.06.20-11:35:12:294:[step-8700]--[loss-2.764535]--[ETA-8:03:27]
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/PIL/Image.py:3368: DecompressionBombWarning: Image size (108000000 pixels) exceeds limit of 89478485 pixels, could be decompression bomb DOS attack.
+  warnings.warn(
+2025.06.20-11:44:09:394:[step-8800]--[loss-2.489810]--[ETA-8:06:09]
+End of epoch 19 / 100 	 Time Taken: 2529 sec
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/torchvision/transforms/transforms.py:332: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/torchvision/transforms/transforms.py:332: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/torchvision/transforms/transforms.py:332: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/torchvision/transforms/transforms.py:332: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/torchvision/transforms/transforms.py:332: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/torchvision/transforms/transforms.py:332: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/torchvision/transforms/transforms.py:332: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/torchvision/transforms/transforms.py:332: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/PIL/Image.py:3368: DecompressionBombWarning: Image size (108000000 pixels) exceeds limit of 89478485 pixels, could be decompression bomb DOS attack.
+  warnings.warn(
+2025.06.20-11:53:02:27:[step-8900]--[loss-2.999439]--[ETA-1 day, 16:18:30]
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/PIL/Image.py:3368: DecompressionBombWarning: Image size (108000000 pixels) exceeds limit of 89478485 pixels, could be decompression bomb DOS attack.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/PIL/Image.py:3368: DecompressionBombWarning: Image size (108000000 pixels) exceeds limit of 89478485 pixels, could be decompression bomb DOS attack.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/PIL/Image.py:3368: DecompressionBombWarning: Image size (108000000 pixels) exceeds limit of 89478485 pixels, could be decompression bomb DOS attack.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/PIL/Image.py:3368: DecompressionBombWarning: Image size (142050000 pixels) exceeds limit of 89478485 pixels, could be decompression bomb DOS attack.
+  warnings.warn(
+2025.06.20-12:02:02:127:[step-9000]--[loss-2.415567]--[ETA-8:03:19]
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/PIL/Image.py:3368: DecompressionBombWarning: Image size (108000000 pixels) exceeds limit of 89478485 pixels, could be decompression bomb DOS attack.
+  warnings.warn(
+2025.06.20-12:11:25:227:[step-9100]--[loss-2.680836]--[ETA-3 days, 14:46:00]
+2025.06.20-12:20:11:327:[step-9200]--[loss-2.430518]--[ETA-7:57:37]
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/PIL/Image.py:3368: DecompressionBombWarning: Image size (108000000 pixels) exceeds limit of 89478485 pixels, could be decompression bomb DOS attack.
+  warnings.warn(
+2025.06.20-12:28:58:427:[step-9300]--[loss-2.575787]--[ETA-8:00:38]
+End of epoch 20 / 100 	 Time Taken: 2529 sec
+saving the model at the end of epoch 20, iters 9340
+Traceback (most recent call last):
+  File "train_PBAFN_viton.py", line 182, in <module>
+    save_checkpoint(model.module,
+  File "/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/torch/nn/modules/module.py", line 1185, in __getattr__
+    raise AttributeError("'{}' object has no attribute '{}'".format(
+AttributeError: 'AFWM' object has no attribute 'module'
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/torchvision/transforms/transforms.py:332: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/torchvision/transforms/transforms.py:332: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/torchvision/transforms/transforms.py:332: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/torchvision/transforms/transforms.py:332: UserWarning: Argument interpolation should be of type InterpolationMode instead of int. Please, use InterpolationMode enum.
+  warnings.warn(
+WARNING:torch.distributed.elastic.multiprocessing.api:Sending process 3396831 closing signal SIGTERM
+ERROR:torch.distributed.elastic.multiprocessing.api:failed (exitcode: -6) local_rank: 0 (pid: 3396830) of binary: /home/aix23904/anaconda3/envs/dci-vton/bin/python
+Traceback (most recent call last):
+  File "/home/aix23904/anaconda3/envs/dci-vton/bin/torchrun", line 33, in <module>
+    sys.exit(load_entry_point('torch==1.11.0', 'console_scripts', 'torchrun')())
+  File "/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/torch/distributed/elastic/multiprocessing/errors/__init__.py", line 345, in wrapper
+    return f(*args, **kwargs)
+  File "/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/torch/distributed/run.py", line 724, in main
+    run(args)
+  File "/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/torch/distributed/run.py", line 715, in run
+    elastic_launch(
+  File "/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/torch/distributed/launcher/api.py", line 131, in __call__
+    return launch_agent(self._config, self._entrypoint, list(args))
+  File "/home/aix23904/anaconda3/envs/dci-vton/lib/python3.8/site-packages/torch/distributed/launcher/api.py", line 245, in launch_agent
+    raise ChildFailedError(
+torch.distributed.elastic.multiprocessing.errors.ChildFailedError: 
+========================================================
+train_PBAFN_viton.py FAILED
+--------------------------------------------------------
+Failures:
+  <NO_OTHER_FAILURES>
+--------------------------------------------------------
+Root Cause (first observed failure):
+[0]:
+  time      : 2025-06-20_12:32:40
+  host      : aix-server-gpu3
+  rank      : 0 (local_rank: 0)
+  exitcode  : -6 (pid: 3396830)
+  error_file: <N/A>
+  traceback : Signal 6 (SIGABRT) received by PID 3396830
+========================================================

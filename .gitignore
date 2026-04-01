@@ -1,0 +1,29 @@
+# Model weights & checkpoints
+*.pth
+*.pt
+*.ckpt
+*.bin
+*.safetensors
+checkpoints/
+
+# Data & images
+data/
+results/
+*.png
+*.jpg
+*.jpeg
+*.bmp
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+*.egg-info/
+
+# Large files
+*.tar
+*.tar.gz
+*.zip
+nohup.out
+*.pkl
+pkl_output/
